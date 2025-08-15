@@ -115,6 +115,8 @@ _개인 프로젝트 | 2025.07 ~_
 - 향후 **JPA**, **Spring Security**, **AI 연동 API** 등 학습 및 적용 예정
 
 ---
+## 백준 티어
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsxorals1)](https://solved.ac/rnjsxorals1/)
 
 ## 🗂 기타
 
