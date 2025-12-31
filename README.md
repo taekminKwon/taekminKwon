@@ -47,7 +47,7 @@
 
 ### Backend
 
-- Spring Framework (MVC), Spring Boot, Django(예정)
+- Spring Framework (MVC), Spring Boot, Django
 - MyBatis, JPA
 - REST API 설계
 
@@ -71,6 +71,18 @@
 ---
 
 ## 📁 프로젝트 경험
+### 📌 **Ssagbang : Project Matching System**
+
+_백엔드 | 2025.11 ~ 2025.12
+
+**주요 기능**: 로그인, SSE, 채팅
+**주요 기여**:
+팀장
+- 도메인 설계 및 ERD 작성
+- Django 기반 CRUD 설계 및 리팩토링
+- Redis 활용 Pub / Sub 이벤트 알림 구현
+
+---
 
 ### 📌 **DevLens : Project Management System**
 
